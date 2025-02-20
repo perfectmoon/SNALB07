@@ -21,7 +21,7 @@ def pembagian(a,b):
 def main():
 	
 	print(penambahan(10,5))
-	print(pengurangan(4,2))
+	print(pengurangan(1,2))
 	print(perkalian(2,4))
 	print(pembagian(10,2))
 
